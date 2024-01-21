@@ -7,7 +7,7 @@ const NavigationBar = () => {
         <Container>
           <Navbar.Brand href="/">KI FILM</Navbar.Brand>
           <Nav>
-            <Nav.Link href="#trending">TRENDING</Nav.Link>
+            <Nav.Link href="#trending">Random Film</Nav.Link>
             <Nav.Link href="#superhero">SUPERHERO</Nav.Link>
             <Nav.Link href="#horor">HOROR</Nav.Link>
           </Nav>

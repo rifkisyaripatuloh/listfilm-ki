@@ -11,7 +11,7 @@ const Trending = () => {
     <div data-aos="fade-up">
       <Container>
         <br />
-        <h1 className="text-white">TRENDING MOVIES</h1>
+        <h1 className="text-white">Random MOVIES</h1>
         <br />
         <Row>
           <Col md={4} className="movieWrapper" id="trending">
@@ -101,9 +101,6 @@ const Trending = () => {
                     Amerika yang akan datang yang diproduksi oleh Pixar
                     Animation Studios dan Walt Disney Pictures dan
                     didistribusikan oleh Walt Disney Studios Motion Pictures.
-                  </Card.Text>
-                  <Card.Text className="text-left">
-                    Last updated 3 mins ago
                   </Card.Text>
                 </div>
               </div>
