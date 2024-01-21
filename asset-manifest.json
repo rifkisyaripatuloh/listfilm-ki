@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rifkisyaripatuloh/listfilm-ki/static/css/main.10f23137.css",
-    "main.js": "/rifkisyaripatuloh/listfilm-ki/static/js/main.be0e76d2.js",
-    "static/js/787.13448508.chunk.js": "/rifkisyaripatuloh/listfilm-ki/static/js/787.13448508.chunk.js",
+    "main.js": "/rifkisyaripatuloh/listfilm-ki/static/js/main.b134b661.js",
+    "static/js/787.5c44058a.chunk.js": "/rifkisyaripatuloh/listfilm-ki/static/js/787.5c44058a.chunk.js",
     "static/media/scifi.jpg": "/rifkisyaripatuloh/listfilm-ki/static/media/scifi.d7e33e800ac02f489fd8.jpg",
     "static/media/spiderman-cover.jpg": "/rifkisyaripatuloh/listfilm-ki/static/media/spiderman-cover.afa570da5a7651bc1753.jpg",
     "static/media/the batman.jpg": "/rifkisyaripatuloh/listfilm-ki/static/media/the batman.91b621d5d13af60e28d8.jpg",
@@ -27,11 +27,11 @@
     "static/media/INSIDIOUS.webp": "/rifkisyaripatuloh/listfilm-ki/static/media/INSIDIOUS.5a8092f7aec2d2cd4843.webp",
     "index.html": "/rifkisyaripatuloh/listfilm-ki/index.html",
     "main.10f23137.css.map": "/rifkisyaripatuloh/listfilm-ki/static/css/main.10f23137.css.map",
-    "main.be0e76d2.js.map": "/rifkisyaripatuloh/listfilm-ki/static/js/main.be0e76d2.js.map",
-    "787.13448508.chunk.js.map": "/rifkisyaripatuloh/listfilm-ki/static/js/787.13448508.chunk.js.map"
+    "main.b134b661.js.map": "/rifkisyaripatuloh/listfilm-ki/static/js/main.b134b661.js.map",
+    "787.5c44058a.chunk.js.map": "/rifkisyaripatuloh/listfilm-ki/static/js/787.5c44058a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10f23137.css",
-    "static/js/main.be0e76d2.js"
+    "static/js/main.b134b661.js"
   ]
 }
