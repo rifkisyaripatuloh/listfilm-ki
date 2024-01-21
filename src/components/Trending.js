@@ -11,7 +11,7 @@ const Trending = () => {
     <div data-aos="fade-up">
       <Container>
         <br />
-        <h1 className="text-white">Random MOVIES</h1>
+        <h1 className="text-white">RANDOM</h1>
         <br />
         <Row>
           <Col md={4} className="movieWrapper" id="trending">
